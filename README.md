@@ -9,6 +9,6 @@
 #Автор: Уклеев Никита ТАДБ251
 
 ```bash
-git clone <ссылка-на-ваш-репозиторий>
-cd <имя-папки-репозитория>
+git clone https://github.com/whyshy-4/HW_2_OOP_Testing_Git.git
+cd HW_2_OOP_Testing_Git
 pip install -r requirements.txt
